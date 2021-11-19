@@ -15,8 +15,12 @@ show-avatar: false
 * **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
 * **Y. Li**, R. Chen, L. Chen, J. Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
 * **Y. Li**, R. Chen, J. Xu, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2015. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **Y. Li**, D. Wu, J. Xu, B. Choi, W. Su, "Spatial-aware Interest Group Queries in Location-based Social Networks”,'' _Data and Knowledge Engineering_ **(DKE)**, 2014. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
 * L. Chen, **Y. LI (通信)**, J. Xu, ‪C. S. Jensen, "Why-not Spatial Keywords Top-k Queries: A Direction-aware Approach,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2018. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-* M. Xu, H. Su, **Y. LI (通信)**, X. Li, J. Liao, J. Niu, P. Lv, B. Zhou, "Stylized Aesthetic QR Code”,'' _IEEE Transactions on Multimedia_ **(IEEE TMM)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* M. Xu, H. Su, **Y. LI (通信)**, X. Li, J. Liao, J. Niu, P. Lv, B. Zhou, "Stylized Aesthetic QR Code,'' _IEEE Transactions on Multimedia_ **(IEEE TMM)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* X. Jiang, L. Zhang, P. Lv, Y. Guo, R. Zhu, **Y. Li**, Y. Pang, X. Li, B. Zhou, M. Xu, "Learning Multi-Level Density Maps for Crowd Counting,'' _IEEE Transactions on Neural Networks and Learning Systems_ **(IEEE TNNLS)**, 2018. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* M. Xu, H. Wang, S. Chu, Y. Gan, X. Jiang, **Y. Li**, B. Zhou, "Traffic Simulation and Visual Verification in Smog,''_ACM Transactions on Intelligent Systems and Technology_**(ACM TITS)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* C. Li, P. Lv, D. Manocha, H. Wang, **Y. Li**, B. Zhou and M. Xu, "ACSEE: Antagonistic Crowd Simulation Modelwith Emotional Contagion and Evolutionary Game Theory,''_IEEE Transactions on Affective Computing_**(IEEE TAC)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
   
 #### _Conference_  
 * Y. Ni, **J. Chen**, and L.-P. Chau, "Reflection removal based on single light field capture,'' In _Proc. IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-4, 2017. [[pdf](https://ieeexplore.ieee.org/document/8050813/)] 
