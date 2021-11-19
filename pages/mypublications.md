@@ -10,7 +10,7 @@ show-avatar: false
 -->
 
 ## Selected Publications  
-#### _Journal_
+#### _Journal_ 
 * **Yafei Li**, Hongyan Gu, Rui Chen, Jianliang Xu, Shangwei Guo, Junxiao Xue, and Mingliang Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, vol. 00, no. 0, pp. 1-14, 2021. [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
 * **J. Chen** and L.-P. Chau, "A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 23, no. 3, pp. 1097-1104, 2014. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
   
