@@ -24,7 +24,7 @@ show-avatar: false
 * W. Su, H. Wu, **Y. Li**, J. Zhao, F. H. Lochovsky, H. Cai, T. Huang, "Understanding Query Interfaces by Statistical Parsing,'' _ACM Transactions on the Web_ **(ACM TWEB)**, 2013. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
   
 #### _Conference_  
-* **Y. Li**, H. Gu, R. Chen, J. Xu, H. Hu, M. Xu, "Top-k Publish/Subscribe for Ride Hitching,'' In _Proc. of the IEEE International Conference on Data Engineering_  **(IEEE-ICDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **Y. Li**, H. Gu, R. Chen, J. Xu, H. Hu, M. Xu, "Top-k Publish/Subscribe for Ride Hitching,'' In _Proc. of the IEEE International Conference on Data Engineering_  **(IEEE ICDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
 * **Y. Li**, R. Chen, J. Xu, Q. Huang, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2016. [[pdf](http://ieeexplore.ieee.org)]
 * L. Chen, **Y. Li**, J. Xu, C. S. Jensen, "Direction-Aware Why-Not Spatial Keyword Top-k Queries,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2017. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
 * L. Chen, J. Xu, C. S. Jensen, **Y. Li**, "YASK: A Why-Not Question Answering Engine for Spatial Keyword Query Services,'' In _Proc. of the VLDB Endowment_ **(PVLDB)**, 2016. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
