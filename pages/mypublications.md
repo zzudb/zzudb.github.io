@@ -11,12 +11,12 @@ show-avatar: false
 
 ## Selected Publications  
 #### _Journal_ 
-* **Yafei Li**, Hongyan Gu, Rui Chen, Jianliang Xu, Shangwei Guo, Junxiao Xue, and Mingliang Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
-* **Yafei Li**, Ji Wan, Rui Chen, Jianliang Xu, Xiaoyi Fu, Hongyan Gu, Pei Lv, and Mingliang Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-* **Yafei Li**, Rui Chen, Lei Chen, Jianliang Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-* Yafei Li, Rui Chen, Jianliang Xu, Haibo Hu, Byron Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2015. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-* Lei Chen, **Yafei LI (通信)**, Jianliang Xu, ‪Christian S. Jensen, "Why-not Spatial Keywords Top-k Queries: A Direction-aware Approach,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2018. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-* Mingliang Xu, Hao Su, **Yafei LI (通信)**, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou, "Stylized Aesthetic QR Code”,'' _IEEE Transactions on Multimedia_ **(IEEE TMM)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
+* **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **Y. Li**, R. Chen, L. Chen, J. Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **Y. Li**, R. Chen, J. Xu, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2015. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* L. Chen, **Y. LI (通信)**, J. Xu, ‪C. S. Jensen, "Why-not Spatial Keywords Top-k Queries: A Direction-aware Approach,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2018. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* M. Xu, H. Su, **Y. LI (通信)**, X. Li, J. Liao, J. Niu, P. Lv, B. Zhou, "Stylized Aesthetic QR Code”,'' _IEEE Transactions on Multimedia_ **(IEEE TMM)**, 2019. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
   
 #### _Conference_  
 * Y. Ni, **J. Chen**, and L.-P. Chau, "Reflection removal based on single light field capture,'' In _Proc. IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-4, 2017. [[pdf](https://ieeexplore.ieee.org/document/8050813/)] 
