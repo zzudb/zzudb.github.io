@@ -2,7 +2,7 @@
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
-- Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/)
+- Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) __Impact Factor: 2.833__
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference Organisation</span></strong></span></p>
 
