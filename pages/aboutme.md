@@ -7,7 +7,7 @@
 - Distinguished Professor (2015.07-2015.12), [School of Computer and Information Engineering](http://cs.huel.edu.cn/), [Henan University of Economics and Law](http://www.huel.edu.cn/), Zhengzhou, China
 - Research Engineer (2010.05-2011.12), PKU-HKUST Shenzhen-Hong Kong Institution, Shenzhen, China
 - Lecturer (2009.09-2011.12), [Department of Computer Science and Technology](http://comp.hkbu.edu.hk/), [BUN-HKBU United International University](http://www.hkbu.edu.hk/), Zhuhai
-- 
+
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
 - Spatial Crowdsourcing
