@@ -11,7 +11,7 @@ show-avatar: false
 
 ## Selected Publications  
 #### _Journal_ 
-* **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://www.computer.org/csdl/journal/tk)] _(Rank: CCF-A)_
+* **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' </br>_IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://www.computer.org/csdl/journal/tk)] _(Rank: CCF-A)_
 * **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://www.computer.org/csdl/journal/tk)] _(Rank: CCF-A)_
 * **Y. Li**, R. Chen, L. Chen, J. Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](https://www.computer.org/csdl/journal/tsc)] **JCR-1区**
 * **Y. Li**, R. Chen, J. Xu, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2015. [[pdf](https://www.computer.org/csdl/journal/tk)] **CCF-A类**
