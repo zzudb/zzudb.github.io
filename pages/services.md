@@ -19,5 +19,5 @@
 - _IEEE Transactions on Multimedia_ (**TMM**)
 - _Data and Knowledge and Engineering_ (**DKE**)
 - _IEEE Transactions on Services Computing_ (**TSC**)
-- _IEEE Multimedia (**MM**)
+- _IEEE Multimedia_ (**MM**)
 - _Frontiers of Computer Science_ (**FCS**)
