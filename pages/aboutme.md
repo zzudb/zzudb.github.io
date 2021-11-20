@@ -13,5 +13,7 @@
 - Spatial Crowdsourcing
 - Big Data Management and Analysis
 - Artificial Intelligence 
+- Human-Machine Intelligence
+- Real-time Scheduling
 - Visualization
 
