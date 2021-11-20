@@ -17,7 +17,7 @@
 
 - _IEEE Transactions on Knowledge and Data Engineering_ (**TKDE**)
 - _IEEE Transactions on Multimedia_ (**TMM**)
-- _Data and Knowledge and Engineering_ (**TOG**)
+- _Data and Knowledge and Engineering_ (**DKE**)
 - _IEEE Transactions on Services Computing_ (**TSC**)
 - _IEEE Multimedia (**MM**)
 - _Frontiers of Computer Science_ (**FCS**)
