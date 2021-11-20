@@ -1,7 +1,7 @@
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 
-- **COMP** _Mobile Programming_ [2016-2021]
-- **SE** _Software Engineering Requirement_ [2016-2021]
+- **COMP**： _Mobile Programming_ [2016-2021]
+- **SE**： _Software Engineering Requirement_ [2016-2021]
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
