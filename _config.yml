@@ -27,13 +27,13 @@ navbar-links:
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
  
-  More About Me: "pages/aboutme/"
+  More About Me: "yfli/pages/aboutme/"
   
-  Publications: "pages/mypublications/"  
+  Publications: "yfli/pages/mypublications/"  
   
-  Professional Services: "pages/services/"
+  Professional Services: "yfli/pages/services/"
   
-  Teaching & Supervision: "pages/supervision/"
+  Teaching & Supervision: "yfli/pages/supervision/"
 
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
