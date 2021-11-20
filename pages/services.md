@@ -6,26 +6,18 @@
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference Organisation</span></strong></span></p>
 
-- **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2021, Chengdu, China
-- **Programme Committee**, _Computer Graphics International_ (**CGI**) 2021, Geneva, Switzerland
-- **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2020, Seattle, United States
-- **Area Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
-- **Grand Challenge Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
-- **Area Chair**, _IEEE International Conference on Multimedia & Expo_ (**ICME**) 2020, London, United Kingdom
-- **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2019, Nice, France
-- **Programme Committee**, _European Signal Processing Conference_ (**EUSIPCO**) 2018, Rome, Italy
+- **Programme Committee**, _APWeb-WAIM International Joint Conference on Web and Big Data_ (**APWeb-WAIM**) 2021, Guangzhou, China
+- **Programme Committee**, _International Conference on Database Systems for Advanced Applications_ (**DASFAA**) 2021, Taipei, China
+- **Programme Committee**, _ACM International Conference on Information and Knowledge Management_ (**ACM CIKM**) 2019, Beijing, China
+- **Programme Committee**, _IEEE International Conference on Data Science in Cyberspace_ (**IEEE DSC**) 2020, Hong Kong, China
+- **Programme Committee Chair**, _IEEE International Workshop on Mobile Ubiquitous Systems and Technologies._ (**IEEE MUST**) 2019, Hong Kong, China
+- **Programme Committee**, _IEEE International Conference on Cyber-Physical Systems, Networks, and Applications_ (**IEEE CPSNA**) 2015, Hong Kong, China
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference/Journal Referee</span></strong></span></p>
 
-- _IEEE Transactions on Image Processing_ (**TIP**)
-- _IEEE Transactions on Computational Imaging_ (**TCI**)
-- _ACM Transactions on Graphics_ (**TOG**)
-- _IEEE Transactions on Visualization and Computer Graphics_ (**TVCG**)
-- _IEEE Transactions on Broadcasting_ (**TOB**)
-- _IEEE Signal Processing Letters_ (**SPL**)
-- _The Visual Computer Journal, Springer_ (**TJVC**)
-- _IET Image Processing_ (**IETIP**)
-- _Multimedia Tools and Applications, Springer_ (**MTAP**)
-- **CVPR** [19',20',21']
-- **ICCV** [19',21']
-- **ECCV** [20']
+- _IEEE Transactions on Knowledge and Data Engineering_ (**TKDE**)
+- _IEEE Transactions on Multimedia_ (**TMM**)
+- _Data and Knowledge and Engineering_ (**TOG**)
+- _IEEE Transactions on Services Computing_ (**TSC**)
+- _IEEE Multimedia (**MM**)
+- _Frontiers of Computer Science_ (**FCS**)
