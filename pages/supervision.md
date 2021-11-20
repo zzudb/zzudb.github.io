@@ -6,9 +6,9 @@
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
 - **Zhu, Guanglei** (Ph.D. 2021-), _Spatial Crowdsourcing_.
-- **Zhang Mei** (Ph.D. 2019-2023), _Real-time Scheduling_.
+- **Zhang Mei** (Ph.D. 2019-), _Real-time Scheduling_.
 - **Zhang Shaohui** (Ph.D. 2021-), _Real-time Scheduling_.
-- **Wu Qingshun** (Msc. 2021-), _Smart Logistics_.
-- 
+- **Wu Qingshun** (Msc. 2019-), _Smart Logistics_.
+- **Li Yifei** (Msc. 2019-), _Smart Logistics_.
 
 
