@@ -8,8 +8,8 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+<h3 style="text-align: left;">Professional Services</3>
 
-## Professional Services
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
