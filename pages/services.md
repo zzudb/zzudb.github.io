@@ -1,8 +1,6 @@
 
 <h1 style="text-align: left;">Professional Services</h1>
 
-<p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
-
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
