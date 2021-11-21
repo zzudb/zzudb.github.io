@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;">Professional Services</h1>
+<h1 style="text-align: left;">Professional Services</h1>
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
