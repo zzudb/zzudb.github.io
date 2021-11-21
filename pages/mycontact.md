@@ -2,7 +2,6 @@
 layout: page
 ---
 
-<p>&nbsp;</p>
 <h1 style="text-align: center;">Contact</h1>
 
 <p><strong>Email:&nbsp;</strong>
