@@ -34,6 +34,8 @@ navbar-links:
   Professional Services: "pages/services/"
   
   Teaching & Supervision: "pages/supervision/"
+  
+  Funded Projects: "pages/projects"
 
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
