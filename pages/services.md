@@ -5,6 +5,7 @@ show-avatar: false
 
 ## Professional Services
 
+
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
