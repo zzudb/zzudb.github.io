@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p>&nbsp;</p>
-<h1 style="text-align: center;">Funded Projects</h1>
+<h1 style="text-align: left;">Funded Projects</h1>
 
 <p><strong>Email:&nbsp;</strong>
 chenjie <span style="color:#800080;"><strong>[at]</strong></span> comp <span style="color:#800080;"><strong>[dot]</strong></span> hkbu <span style="color:#800080;"><strong>[dot]</strong></span> edu <span style="color:#800080;"><strong>[dot]</strong></span> hk
