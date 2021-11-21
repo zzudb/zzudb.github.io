@@ -1,6 +1,7 @@
 ---
 layout: page
+show-avatar: false
 ---
 
-<h1 style="text-align: left;">Funded Projects</h1>
+## Funded Projects
 
