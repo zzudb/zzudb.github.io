@@ -1,5 +1,9 @@
+---
+layout: page
+show-avatar: false
+---
 
-<h1 style="text-align: left;">Professional Services</h1>
+## Professional Services
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
