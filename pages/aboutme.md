@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+<h1 style="text-align: left;">About Me</h1>
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic & Work Experiences</span></span></p>
 
