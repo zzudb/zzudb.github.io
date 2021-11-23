@@ -2,7 +2,7 @@
 layout: page
 show-avatar: false
 ---
-<h2 style="text-align: left;">Selected Publications</h2><br>
+<h2 style="text-align: left;">Selected Publications</h2>
 
 #### _Journal_ 
 * **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
