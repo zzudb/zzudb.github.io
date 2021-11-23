@@ -2,14 +2,8 @@
 layout: page
 show-avatar: false
 ---
-<!--
-<h4 style="text-align: right;"><span style="text-decoration: underline;"><a href="https://hotndy.github.io/mypublications/"><span style="text-align: center; color: #000000; text-decoration: underline;">by Journal</span></a></span></h4>
-<h1 style="text-align: center;">Publications</h1>-->
-<!--
-<h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
--->
+<h2 style="text-align: left;">Selected Publications</h2>
 
-## Selected Publications  
 #### _Journal_ 
 * **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
