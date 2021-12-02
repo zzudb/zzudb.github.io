@@ -4,12 +4,12 @@ show-avatar: false
 ---
 <h2 style="text-align: left;">Teaching & Supervision</h2>
 
-<p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
+#### _Teaching_
 
 - **COMP**： _Mobile Programming_ [2016-2021]
 - **SE**： _Software Engineering Requirement_ [2016-2021]
 
-<p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
+#### _Research Group_
 
 - **Zhu Guanglei** (Ph.D. 2021-), _Spatial Crowdsourcing_.
 - **Zhang Mei** (Ph.D. 2019-), _Real-time Scheduling_.
