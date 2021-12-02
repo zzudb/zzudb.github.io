@@ -8,7 +8,7 @@ show-avatar: false
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
 
-<p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference Organisation</span></strong></span></p>
+#### _Conference Organisation_
 
 - **Programme Committee**, _APWeb-WAIM International Joint Conference on Web and Big Data_ (**APWeb-WAIM**) 2021, Guangzhou, China
 - **Programme Committee**, _International Conference on Database Systems for Advanced Applications_ (**DASFAA**) 2021, Taipei, China
