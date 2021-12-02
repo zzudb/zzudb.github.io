@@ -5,6 +5,7 @@ show-avatar: false
 <h2 style="text-align: left;">Selected Publications</h2>
 
 #### _Journal_ 
+
 * **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, R. Chen, L. Chen, J. Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
@@ -18,6 +19,7 @@ show-avatar: false
 * W. Su, H. Wu, **Y. Li**, J. Zhao, F. H. Lochovsky, H. Cai, T. Huang, "Understanding Query Interfaces by Statistical Parsing,'' _ACM Transactions on the Web_ **(ACM TWEB)**, 2013. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
   
 #### _Conference_  
+
 * **Y. Li**, H. Gu, R. Chen, J. Xu, H. Hu, M. Xu, "Top-k Publish/Subscribe for Ride Hitching,'' In _Proc. of the IEEE International Conference on Data Engineering_  **(IEEE ICDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, R. Chen, J. Xu, Q. Huang, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2016. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * L. Chen, **Y. Li**, J. Xu, C. S. Jensen, "Direction-Aware Why-Not Spatial Keyword Top-k Queries,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2017. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
