@@ -4,7 +4,7 @@ show-avatar: false
 ---
 <h2 style="text-align: left;">Professional Services</h2>
 
-<p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
+#### _Editorial Services_
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
 
@@ -17,7 +17,7 @@ show-avatar: false
 - **Programme Committee**, _IEEE International Workshop on Mobile Ubiquitous Systems and Technologies._ (**IEEE MUST**) 2019, Hong Kong, China
 - **Programme Committee**, _IEEE International Conference on Cyber-Physical Systems, Networks, and Applications_ (**IEEE CPSNA**) 2015, Hong Kong, China
 
-<p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference/Journal Referee</span></strong></span></p>
+#### _Conference/Journal Referee_
 
 - _IEEE Transactions on Knowledge and Data Engineering_ (**TKDE**)
 - _IEEE Transactions on Multimedia_ (**TMM**)
