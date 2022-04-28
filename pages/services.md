@@ -7,6 +7,7 @@ show-avatar: false
 #### _Editorial Services_
 
 - Guest Editor for [Journal of Complexity](https://www.hindawi.com/journals/complexity/) (_Impact Factor: 2.833_)
+- Guest Editor for [Journal of Database Management](https://www.igi-global.com/journal/journal-database-management/1072) (_Impact Factor: 1.233_)
 
 #### _Conference Organisation_
 
