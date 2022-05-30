@@ -21,6 +21,8 @@ show-avatar: false
   
 #### _Conference_  
 
+
+* Q. Wu, **Y. Li (通信)**, H. Li, D. Zhang, G. Zhu, "Top-k Publish/Subscribe for Ride Hitching,'' In _Proc. of the IEEE International Conference on Data Engineering_  **(IEEE ICDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, H. Gu, R. Chen, J. Xu, H. Hu, M. Xu, "Top-k Publish/Subscribe for Ride Hitching,'' In _Proc. of the IEEE International Conference on Data Engineering_  **(IEEE ICDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, R. Chen, J. Xu, Q. Huang, H. Hu, B. Choi, "Geo-Social K-Cover Group Queries for Collaborative Spatial Computing,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2016. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * L. Chen, **Y. Li**, J. Xu, C. S. Jensen, "Direction-Aware Why-Not Spatial Keyword Top-k Queries,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2017. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
