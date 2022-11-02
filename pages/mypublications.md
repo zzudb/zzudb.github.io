@@ -6,8 +6,8 @@ show-avatar: false
 
 #### _Journal_ 
 
-* **Y. Li**, Q. Wu, X. Huang, J. Xu, W. Gao, and M. Xu, "Efficient Adaptive Matching for Real-Time City Express Delivery,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, Y. Li, Y. Peng, X. Fu, J. Xu, and M. Xu, "Auction-based First and Last Mile Logistics,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
+* **Y. Li**, Q. Wu, X. Huang, J. Xu, W. Gao, and M. Xu, "Efficient Adaptive Matching for Real-Time City Express Delivery,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, H. Gu, R. Chen, J. Xu, S. Guo, J. Xue, and M. Xu, "Efficient Top-K Matching for Publish/Subscribe Ride Hitching,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, J. Wan, R. Chen, J. Xu, X. Fu, H. Gu, P. Lv, and M. Xu, "Top-K Vehicles Matching in Social Ridesharing: A Price-aware Appraoch,'' _IEEE Transactions on Knowledge and Data Engineering_ **(IEEE TKDE)**, 2021. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, R. Chen, L. Chen, J. Xu. "Towards Social-aware Ridesharing Group Query Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2017. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
