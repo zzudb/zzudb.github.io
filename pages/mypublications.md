@@ -6,6 +6,7 @@ show-avatar: false
 
 #### _Journal_ 
 
+* M. Zhang, Y. Zeng, K. Wang, **Y. Li**, Q. Wu, and M. Xu, "Learned Unmanned Vehicle Scheduling for Large-scale Urban Logistics,'' _IEEE Transactions on Intelligent Transportation Systems_ **(IEEE TMC)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
 * **Y. Li**, H. Li, B. Mei, X. Huang, J. Xu, and M. Xu, "Fairness-Guaranteed Task Assignment for Crowdsourced Mobility Services,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2023. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, Y. Li, Y. Peng, X. Fu, J. Xu, and M. Xu, "Auction-based Crowdsourced First and Last Mile Logistics,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, H. Li, X. Huang, J. Xu, Y. Han, and M. Xu, "Utility-Aware Dynamic Ridesharing in Spatial Crowdsourcing,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
