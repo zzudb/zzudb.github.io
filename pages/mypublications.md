@@ -5,7 +5,7 @@ show-avatar: false
 <h2 style="text-align: left;">Selected Publications</h2>
 
 #### _Journal_ 
-
+* Q. Wu, **Y. Li (通信)**, G. Zhu, B. Mei, J. Xu, and M. Xu, "Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * M. Zhang, Y. Zeng, K. Wang, **Y. Li (通信)**, Q. Wu, and M. Xu, "Learned Unmanned Vehicle Scheduling for Large-scale Urban Logistics,'' _IEEE Transactions on Intelligent Transportation Systems_ **(IEEE TITS)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
 * **Y. Li**, H. Li, B. Mei, X. Huang, J. Xu, and M. Xu, "Fairness-Guaranteed Task Assignment for Crowdsourced Mobility Services,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2023. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, Y. Li, Y. Peng, X. Fu, J. Xu, and M. Xu, "Auction-based Crowdsourced First and Last Mile Logistics,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
