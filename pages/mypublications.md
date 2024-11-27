@@ -25,6 +25,7 @@ show-avatar: false
 * W. Su, H. Wu, **Y. Li**, J. Zhao, F. H. Lochovsky, H. Cai, T. Huang, "Understanding Query Interfaces by Statistical Parsing,'' _ACM Transactions on the Web_ **(ACM TWEB)**, 2013. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
   
 #### _Conference_  
+* H. Li, **Y. Li (通信)**, W. Chen, S. He, M. Xu, J. Xu. "Effective Task Assignment in Mobility PredictionAware Spatial Crowdsourcing,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * B. Mei, **Y. Li (通信)**, W. Chen, L. Luan, G. Zhu, Y. Jin, J. Xu. "Catcher: A Cache Analysis System for Top-𝑘 Pub/Sub Service,'' In _Proc. of the VLDB Endowment_ **(PVLDB)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * Q. Wu, **Y. Li (通信)**, H. Li, D. Zhang, G. Zhu, "AMRAS: A Visual Analysis System for Spatial Crowdsourcing,'' In _Proc. of the VLDB Endowment_ **(PVLDB)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * **Y. Li**, L. Gao, H. Sun, H. Li, Q. Wu, "PRID: An Efficient Pub/Sub Ride Hitching System,'' In _Proc. of the ACM International Conference on Information and Knowledge Management_ **(ACM CIKM)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
