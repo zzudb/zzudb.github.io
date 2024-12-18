@@ -25,6 +25,7 @@ show-avatar: false
 * W. Su, H. Wu, **Y. Li**, J. Zhao, F. H. Lochovsky, H. Cai, T. Huang, "Understanding Query Interfaces by Statistical Parsing,'' _ACM Transactions on the Web_ **(ACM TWEB)**, 2013. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
   
 #### _Conference_  
+* **Y. Li**, W. Chen, J. Yan, H. Li, L. Gao, M. Xu. "Gradient-Guided Credit Assignment and Joint Optimization for Dependency-Aware Spatial Crowdsourcing,'' In _Proc. of the Annual AAAI Conference on Artificial Intelligence_ **(AAAI)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * H. Li, **Y. Li***, W. Chen, S. He, M. Xu, J. Xu. "Effective Task Assignment in Mobility Prediction-Aware Spatial Crowdsourcing,'' In _Proc. of the IEEE International Conference on Data Engineering_ **(IEEE ICDE)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * B. Mei, **Y. Li***, W. Chen, L. Luan, G. Zhu, Y. Jin, J. Xu. "Catcher: A Cache Analysis System for Top-𝑘 Pub/Sub Service,'' In _Proc. of the VLDB Endowment_ **(PVLDB)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * Q. Wu, **Y. Li***, H. Li, D. Zhang, G. Zhu, "AMRAS: A Visual Analysis System for Spatial Crowdsourcing,'' In _Proc. of the VLDB Endowment_ **(PVLDB)**, 2022. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
