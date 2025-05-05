@@ -6,7 +6,7 @@ show-avatar: false
 
 #### _Journal_ 
 * **Y. Li**, Y. Pan, G. Zhu, S. He, M. Xu, and J. Xu, "Charging-Aware Task Assignment for Urban Logistics with Electric Vehicles,'' _IEEE Transactions on Knowledge & Data Engineering_ **(IEEE TKDE)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
-* G. Zhou, **Y. Li***, K. Wang, L. Chen, and M. Xu, "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services,'' _Science China Information Sciences_ **(SCIS)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
+* G. Zhu, **Y. Li***, K. Wang, L. Chen, and M. Xu, "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services,'' _Science China Information Sciences_ **(SCIS)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * Q. Wu, **Y. Li***, J. Yan, M. Zhang, J. Xu, and M. Xu, "Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * Q. Wu, **Y. Li***, G. Zhu, B. Mei, J. Xu, and M. Xu, "Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * M. Zhang, Y. Zeng, K. Wang, **Y. Li***, Q. Wu, and M. Xu, "Learned Unmanned Vehicle Scheduling for Large-scale Urban Logistics,'' _IEEE Transactions on Intelligent Transportation Systems_ **(IEEE TITS)**, 2024. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-B)_
