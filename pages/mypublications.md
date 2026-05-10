@@ -5,6 +5,7 @@ show-avatar: false
 <h2 style="text-align: left;">Selected Publications</h2>
 
 #### _Journal_ 
+* B. Mei, **Y. Li***, H. Lu, W. Chen, L. Chen and J. Xu, "Efficient Task Planning for Complex Orders in Robotized Warehouses,'' _IEEE Transactions on Knowledge & Data Engineering_ **(IEEE TKDE)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * G. Zhu, **Y. Li***, S. Du, J. Xu, S. Ding, and M. Xu, "Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * B. Mei, **Y. Li***, Y. Jin, Y. Peng, M. Xu, and J. Xu, "Learning to Maintain: Towards Human-Machine Collaborative Spatial Task Assignment,'' _IEEE Transactions on Knowledge & Data Engineering_ **(IEEE TKDE)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * B. Mei, Y. Pan, K. Wang, Y. Li, J. Wan, and **Y. Li***, "Answering Why-not Questions on Top-K Social Image Search Services,'' _IEEE Transactions on Services Computing_ **(IEEE TSC)**, 2025. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
