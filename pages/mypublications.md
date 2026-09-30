@@ -5,7 +5,7 @@ show-avatar: false
 <h2 style="text-align: left;">Selected Publications</h2>
 
 #### _Journal_ 
-* Q. Wu, **Y. Li***, S. He, H. Gu, L. Chen and M. Xu, "Learning to Transfer: Towards Sin-to-Real Spatial Task Assignment via Iravel Time Alignment,'' _IEEE Transactions on Knowledge & Data Engineering_ **(IEEE TKDE)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
+* Q. Wu, **Y. Li***, S. He, H. Gu, L. Chen and M. Xu, "Learning to Transfer: Towards Sin-to-Real Spatial Task Assignment via Travel Time Alignment,'' _IEEE Transactions on Knowledge & Data Engineering_ **(IEEE TKDE)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * Q. Wu, D. Zhang, L. Cha, L. Li, H. Gu and **Y. Li**, "Fairness-Aware Task Matching in Cross-Service Spatial Crowdsourcing,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * L. Luan, W. Chen, R. Feng, Q. Wu, **Y. Li*** and M. Xu, "Efficient Task Assignment in Dependency-Cooperative Spatial Crowdsourcing,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
 * B. Li, Z. Li, **Y. Li***, M. Xu, S. Chen, C. Shen and T.Q.S. Quek, "A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning,'' _IEEE Transactions on Mobile Computing_ **(IEEE TMC)**, 2026. [[pdf](https://zzudb.github.io/pages/mypublications/)] _(Rank: CCF-A)_
